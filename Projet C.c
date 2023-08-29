@@ -1,13 +1,13 @@
 #include "fonctions.h"
 
-main () {
+void main () {
 	FILE*x=NULL;//intialisation d'un pointeur fichier
 	Etudiant *p;
 	Etudiant *Y;
-	int *q,N,cne,a,b,i,j,f,cas,o;//tout les variable sont utilisées
+	int *q,N,cne,a,b,i,j,f,cas,o;//tout les variable sont utilisï¿½es
 	char line[25]="";//pour le remplissage du tab par notre fichier
 	int k;
-	green();//changer couleur d'écriture utilisée pls fois
+	green();//changer couleur d'ï¿½criture utilisï¿½e pls fois
 	blue();
 	blue();
 	printf("\n\t\t\t");
