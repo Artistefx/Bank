@@ -17,14 +17,23 @@ This C program implements a basic Student Management System. It allows users to 
 ## Features
 
 -Load an existing list of students from a file or create a new list.
+
 -Display the entire list of students.
+
 -Search for a student by their CNE (National Student Code).
+
 -Delete a student by their CNE.
+
 -Perform binary search for student records.
+
 -Swap the positions of two students in the list.
+
 -Sort the list of students by various criteria.
+
 -Add a new student to the list.
+
 -Update student information by index.
+
 -Save the updated student list to a file.
 
 ## Getting Started
